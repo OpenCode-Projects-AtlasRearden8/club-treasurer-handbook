@@ -1,0 +1,11 @@
+date,payment_ref,vendor,what_was_bought,amount,quote_or_invoice_ref,two_quotes_y_n,approved_by,paid_how,paid_on,notes
+2026-02-10,check 101,The Banner Co.,2x club banners,95.00,quote-b 2026-01-28,yes two written quotes,Voted 6-0 Jan meeting,check 101,2026-02-12,quote-a was 135.00 chose b price same specs
+2026-03-05,transfer 0305,City Rental Hall,monthly venue rental,50.00,standing quote yearly,no standing rate,Officer approval monthly email,transfer,2026-03-05,re-quote once a year
+,,,,,,,,,,
+HOW TO USE - delete this block and the example rows above.,,,,,,,,,,
+One row per vendor payment. Name the vendor exactly as in the ledger line.,,,,,,,,,,
+"payment_ref: your check number / transfer ref, ties this log to the bank statement.",,,,,,,,,,
+two_quotes_y_n: anything over your club threshold (default 100) needs two written quotes.,,,,,,,,,,
+"Recurring items may use a standing quote, re-quoted once a year.",,,,,,,,,,
+"approved_by: meeting date + vote, or officer approval email date, on the record.",,,,,,,,,,
+If the vendor is a club member: note that here with who approved it (not the member-spender).,,,,,,,,,,

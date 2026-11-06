@@ -1,0 +1,12 @@
+date,description,category,account,money_in,money_out,receipt,who_paid,notes
+2026-01-05,Example: January dues collected at meeting (12 members x 5),dues,operating,60.00,,yes,COUNTED BY 2 PEOPLE,
+2026-01-07,Example: snacks for January game night,food,operating,,23.42,yes,Member Rivera,REIMBURSED 01-12 approver President
+2026-01-09,Example: monthly venue rental,venue,operating,,50.00,yes,VENDOR LOG 01-09,
+2026-01-15,Example: year-start surplus moved to reserve,transfer,operating,,150.00,transfer,OFFICER DECISION,also enter a line in the reserve account
+2026-01-15,Example: same transfer received in reserve,transfer,reserve,150.00,,transfer,OFFICER DECISION,
+,,,,,,,,
+HOW TO USE THIS STARTER SHEET - delete this block and the example rows above.,,,,,,,,
+One line per transaction. Same day is best. Whole dollars or exact cents.,,,,,,,,
+receipt column: yes/no/transfer/lost-note-filed (lost gets spender note + separate approver).,,,,,,,,
+who_paid: member or vendor as you know them; cash collections always COUNTED BY 2 PEOPLE.,,,,,,,,
+notes: anything a stranger joining in six months would want to know.,,,,,,,,
